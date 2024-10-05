@@ -6,6 +6,6 @@ What this will be is ever evolving and every member will be a owner of the group
 
 Don't hesitate to write me with any questions and suggestions!
 
-Nick Lee
-- cileene on github
-- nickleej on our discord
+- Nick Lee
+  - cileene on github
+  - nickleej on our discord
