@@ -2,7 +2,7 @@
 
 This is a space where we can share projects across groups and learn from each other.
 
-What this will be is ever evolving and every member will be a owner of the group.
+What this space is will be ever evolving and every member will be a owner of the group.
 
 Don't hesitate to write me with any questions and suggestions!
 
