@@ -9,3 +9,4 @@ Don't hesitate to write me with any questions and suggestions!
 - Nick Lee
   - cileene on github
   - nickleej on our discord
+  - the tall skinny dude with a nike cap in the classroom
