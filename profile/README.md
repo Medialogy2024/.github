@@ -1,12 +1,12 @@
-## Hi fellow Medialogists! 👋
+## Hi! 👋
 
-This is a space where we can share projects across groups and learn from each other.
+This is a collaborative space for the 2024 class of Medialogy students from Aalborg University in Copenhagen.
 
-What this space is will be ever evolving and every member will be a owner of the group.
+Here we can share our semester projects with each other, host gameJams, ask coding questions and whatever it's members might find interesting.
+
+This organisation employs a flat structure, so every member will become an owner.
 
 Don't hesitate to write me with any questions and suggestions!
 
 - Nick Lee
   - cileene on github
-  - nickleej on our discord
-  - the tall skinny dude with a nike cap in the classroom
